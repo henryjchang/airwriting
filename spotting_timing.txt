@@ -1,0 +1,7 @@
+samples per window: 128
+time between ISRs (sample rate): 16 milliseconds
+ISR: 0.1 milliseconds
+computing avg_ang_vel and avg_accel: ~70 milliseconds
+compute FFT: ~94 milliseconds
+compute frequency bins: ~3 milliseconds
+print to serial: ~10 milliseconds

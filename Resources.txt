@@ -1,0 +1,14 @@
+FFT on Arduino:
+http://www.arduinoos.com/2010/10/fast-fourier-transform-fft/
+
+Arduino Tutorials:
+http://playground.arduino.cc/Main/TutorialList
+
+uSVM for Arduino:
+http://www.di.ens.fr/~nowak/misc/bakk.pdf
+
+Arduino-SVM w/ Processing:
+https://github.com/radzilu/Arduino-SVM
+
+LiBSVM:
+https://github.com/cjlin1/libsvm
